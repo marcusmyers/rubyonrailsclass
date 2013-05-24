@@ -1,0 +1,4 @@
+nums = [1,2,3,4,5,6,7,78,99]
+
+nums.each { |num| puts num }
+
